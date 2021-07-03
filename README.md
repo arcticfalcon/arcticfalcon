@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 <!--
+## Expertise
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="go" src="https://img.shields.io/badge/Golang%20-%2356cddb.svg?&style=for-the-badge&logo=go&logoColor=white" />
+<br>
+
 **arcticfalcon/arcticfalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
